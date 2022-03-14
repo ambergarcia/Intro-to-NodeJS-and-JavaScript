@@ -17,7 +17,7 @@
     * On Mac & Windows: `> cd "folder name"` will go to the folder that is a child of the parent directory.
     * You can chain commands like so: `> cd "f1" && cd "f2" && ... && cd "fn"` for `n` children of the parent directory.
     * To retrace your steps, use: `> cd ..` this will go up to the parent directory.
-    * If you still have trouble navigating the CMD or Terminal, check out [this website.]('https://towardsdatascience.com/a-quick-guide-to-using-command-line-terminal-96815b97b955')
+    * If you still have trouble navigating the CMD or Terminal, check out [this website.](https://towardsdatascience.com/a-quick-guide-to-using-command-line-terminal-96815b97b955)
 
  * In the root folder of where this file is stored, run the following command in your CMD or Terminal: 
 
