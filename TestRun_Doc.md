@@ -109,7 +109,7 @@ function create_local(){
 
 ### **COMPLEX SECRET CHALLENGE:** *Reshuffle Lucky Number*
  * Lets say you ran the program and it ran without errors. What if you want to change your number? 
- * Incoporate a new method such that, upon load up instead of immediately asking if they are using their current directory for the workshop, you check for the existence of a `luckynumber.txt` and `dir`. You prompt the user to 
+ * Incoporate a new method such that, upon load up instead of immediately asking if they are using their current directory for the workshop, you check for the existence of a `luckynumber.txt` and `dir`. You prompt the user to instead, ask if they want a new lucky number. If no, exit the program or print the old question.
 
 > *You will definitely need to chain asynch methods to get synchronous flow for your program for both of these challenges.*
 ---
