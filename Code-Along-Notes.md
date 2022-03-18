@@ -149,6 +149,7 @@ Objects are considered as complex types in Javascript.  Objects are containers, 
 ```
 
 There will be moments where, whenenever we want to define an object or loop through an array it will feel repetitive. If you want to run an operation multiple times throughout a program a function will help you out. A function will store a piece of code, and will run that piece of code whenever we call the function.
+
 ---
 
 ### Javascript Fact B - Pass by Reference vs Pass by Value
