@@ -1,11 +1,11 @@
 /**------------------------------------------------------------------------------------------------------------------------
-    main_synch.js
+    streams_loadbar.js
     Goals:
-        * `EventEmitter` module
-        * Create Synchronous Calls
-        * Tying in everything you've learned
+        * `rl` Module
+        * Observer Pattern Intro
+        * Streams
  ------------------------------------------------------------------------------------------------------------------------*/
-
+// This file was removed for the sake of clarity. This is left here as a fun secret peek to learn more about streams and event emitters.
 
 const fs = require("fs");
 const tarot_filename = `./tarot-deck.json`;
