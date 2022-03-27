@@ -191,7 +191,7 @@ function drawACard(tarot, key){
 ```JS
     reset_code(phrase){
         this.phrase = phrase;
-        this.key = false;
+        this.key = true;
         this.emit('lock', phrase)
     }
 ```
